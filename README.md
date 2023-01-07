@@ -12,4 +12,4 @@ A simple single page web application using React and styled with Tailwindcss
 
 ## Live Site
 
-[Best Eats]()
+[Best Eats](https://best-eats-project.netlify.app)
